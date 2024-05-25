@@ -1,0 +1,147 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(8, 92, 8);
+    font-family:fantasy ;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: rgb(189, 84, 14);
+    font-family:cursive;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family:cursive;
+    font-size: 20px;
+}
+.df{
+    margin:200px ;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h2{
+    color: rgb(20, 121, 16);
+}
+h3{
+    font-size: 27px;
+    color: rgb(19, 121, 121);
+}
+h4{
+    font-size: 27px;
+    color: brown;
+}
+p{
+    color: blue;
+    font-size: 20px;
+}
+.link-header{
+    text-decoration: none;
+    color: rgb(216, 71, 71);
+    font-family:cursive;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(163, 214, 190);
+}
+
+
+body {
+    font-family: sans-serif;
+}
+h2{
+    font-size: 27px;
+}
+h3{
+    font-size: 27px;
+}
+h4{
+    font-size: 27px;
+}
+h5{
+    font-size: 27px;
+}
+h6{
+    font-size: 27px;
+}
+h7{
+    color: blueviolet;
+    font-size: 20px;
+}
+.link-header{
+    text-decoration: none;
+    color: rgb(216, 71, 71);
+    font-family:cursive;
+    font-size: 20px;
+}
+body{
+    background-color: darkseagreen;
+}
+
+
+body {
+    font-family: sans-serif;
+}
+.sigma{
+    float:left;
+    margin-left: 10px;
+    color: green;
+    
+}
+
+.kjk{
+    float:left;
+    margin-left: 20px;
+    color: blue;
+}
+section{
+    display: flex;
+}
+.c{
+    float:left;
+    margin-left: 20px;
+    color: brown;
+}
+.h{
+    float:left;
+    margin-left: 20px;
+    color: rgb(53, 153, 211);
+}
+.h2{
+    float:left;
+    margin-left: 20px;
+    color: rgb(82, 50, 211);
+}
+.coll{
+    float:left;
+    margin-left: 20px;
+    color: rgb(211, 50, 211);
+}
+h1{
+     background-color: indigo;
+     color: white;
+     padding: 10px;
+}
+img{
+    border-radius: 20px;
+}
+
+html{
+    background-color: burlywood;
+}
+
+body{
+    background-color: burlywood;
+}
+.link-header{
+    text-decoration: none;
+    color: rgb(216, 71, 71);
+    font-family:cursive;
+    font-size: 20px;
+}
